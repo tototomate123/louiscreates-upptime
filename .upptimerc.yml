@@ -6,7 +6,7 @@ sites:
 - name: Louis Logbook
   url: https://louiscreates.com
   headers:
-    - "upptime: §UPPTIME_CLOUDFLARE_TOKEN"
+    - "upptime: $UPPTIME_CLOUDFLARE_TOKEN"
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
