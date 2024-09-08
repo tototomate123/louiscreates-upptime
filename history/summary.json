@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/louiscreates.com.ico",
     "slug": "louis-logbook",
     "status": "down",
-    "uptime": "0.11%",
-    "uptimeDay": "0.11%",
-    "uptimeWeek": "0.11%",
-    "uptimeMonth": "0.11%",
-    "uptimeYear": "0.11%",
-    "time": 120,
-    "timeDay": 120,
-    "timeWeek": 120,
-    "timeMonth": 120,
-    "timeYear": 120,
+    "uptime": "0.01%",
+    "uptimeDay": "0.01%",
+    "uptimeWeek": "0.01%",
+    "uptimeMonth": "0.01%",
+    "uptimeYear": "0.01%",
+    "time": 111,
+    "timeDay": 111,
+    "timeWeek": 111,
+    "timeMonth": 111,
+    "timeYear": 111,
     "dailyMinutesDown": {
-      "2024-09-08": 9
+      "2024-09-08": 36
     }
   }
 ]
