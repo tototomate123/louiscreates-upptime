@@ -2,12 +2,17 @@
 owner: tototomate123 # Your GitHub organization or username, where this repository lives
 repo: louiscreates-upptime # The name of this repository
 
+delay: 1000
+
 sites:
-- name: Louis Logbook
-  url: https://louiscreates.com
+- name: Logbook Servers
+  url: https://louiscreates.com/api/postcard
   headers:
     - "upptime: $UPPTIME_CLOUDFLARE_TOKEN"
-
+- name: Tracky Website
+  url: https://tracky.louiscreates.com
+  headers:
+    - "upptime: $UPPTIME_CLOUDFLARE_TOKEN"
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
