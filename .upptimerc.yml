@@ -6,8 +6,8 @@ sites:
   - name: Louis Logbook
     url: https://louiscreates.com
     headers: 
-      - "cf-access-client-id: $CLOUDFLARE_TOKEN_ID"
-      - "cf-access-client-secret: $CLOUDFLARE_TOKEN_SECRET"
+      - "CF-Access-Client-Id: $CLOUDFLARE_TOKEN_ID"
+      - "CF-Access-Client-Secret: $CLOUDFLARE_TOKEN_SECRET"
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
