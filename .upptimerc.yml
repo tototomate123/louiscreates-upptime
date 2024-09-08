@@ -8,6 +8,8 @@ sites:
     headers: 
     - "cf-access-client-id: $CLOUDFLARE_TOKEN_ID"
     - "cf-access-client-secret: $CLOUDFLARE_TOKEN_SECRET"
+  - name: Secret!!!
+    url: $GOOGLE_REALLY_SECRET
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
