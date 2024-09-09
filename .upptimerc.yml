@@ -23,14 +23,16 @@ status-website:
   cname: status.louiscreates.com
   # baseUrl: /
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Status
+  name: Statuspage
   introTitle: "About this Page"
-  introMessage: Welcome to the service status page for Logbook and Tracky. Here, you can find the latest updates on uptime and any ongoing issues with our services.
+  introMessage: Welcome to the service status page for Louis Logbook and Tracky. Here, you can find the latest updates on uptime and any ongoing issues with our services.
   navbar:
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER
+    - title: Ko-Fi
+      href: https://ko-fi.com/tracky
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
