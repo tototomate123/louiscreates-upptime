@@ -5,6 +5,10 @@ repo: louiscreates-upptime # The name of this repository
 delay: 1000
 
 sites:
+- name: Louis Logbook
+  url: https://louiscreates.com
+  headers:
+    - "upptime: $UPPTIME_CLOUDFLARE_TOKEN"
 - name: Logbook Servers
   url: https://louiscreates.com/api/postcard
   headers:
@@ -19,14 +23,14 @@ status-website:
   #cname: status.louiscreates.com
   baseUrl: /louiscreates-upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "Status Page"
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  name: Status
+  introTitle: "About this Page"
+  introMessage: Welcome to the service status page for Logbook and Tracky. Here, you can find the latest updates on uptime and any ongoing issues with our services.
   navbar:
     - title: Status
       href: /
     - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+      href: https://github.com/$OWNER
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
