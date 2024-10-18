@@ -4,35 +4,39 @@
     "url": "https://louiscreates.com",
     "icon": "https://icons.duckduckgo.com/ip3/louiscreates.com.ico",
     "slug": "louis-logbook",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 484,
-    "timeDay": 726,
-    "timeWeek": 632,
-    "timeMonth": 553,
-    "timeYear": 484,
-    "dailyMinutesDown": {}
+    "time": 480,
+    "timeDay": 511,
+    "timeWeek": 590,
+    "timeMonth": 545,
+    "timeYear": 480,
+    "dailyMinutesDown": {
+      "2024-10-18": 0
+    }
   },
   {
     "name": "Logbook Servers",
     "url": "https://louiscreates.com/api/postcard",
     "icon": "https://icons.duckduckgo.com/ip3/louiscreates.com.ico",
     "slug": "logbook-servers",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 178,
-    "timeDay": 152,
-    "timeWeek": 147,
-    "timeMonth": 156,
+    "timeDay": 170,
+    "timeWeek": 152,
+    "timeMonth": 157,
     "timeYear": 178,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-18": 0
+    }
   }
 ]
