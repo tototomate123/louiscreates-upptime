@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.66%",
-    "time": 525,
-    "timeDay": 406,
-    "timeWeek": 482,
-    "timeMonth": 542,
-    "timeYear": 525,
+    "time": 527,
+    "timeDay": 647,
+    "timeWeek": 520,
+    "timeMonth": 540,
+    "timeYear": 527,
     "dailyMinutesDown": {
       "2024-10-18": 399
     }
@@ -25,16 +25,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/louiscreates.com.ico",
     "slug": "logbook-servers",
     "status": "up",
-    "uptime": "99.66%",
+    "uptime": "99.67%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.66%",
-    "time": 166,
-    "timeDay": 122,
-    "timeWeek": 141,
-    "timeMonth": 149,
-    "timeYear": 166,
+    "uptimeYear": "99.67%",
+    "time": 167,
+    "timeDay": 199,
+    "timeWeek": 152,
+    "timeMonth": 151,
+    "timeYear": 167,
     "dailyMinutesDown": {
       "2024-10-18": 399
     }
